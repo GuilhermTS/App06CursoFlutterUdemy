@@ -4,4 +4,4 @@ O intutito do APP é apresentar o preço do bitcoin todas as vezes que o botão 
 
 ## Getting Started
 
-API HTTP (async, await); Pacote Convert Dart (Json); RaisedButton; Inserção de imagem; Stateless; Scaffold; Container; Column;
+API HTTP (async, await); Package Convert Dart (Json); RaisedButton; Inserção de imagem; Stateless; Scaffold; Container; Column;
